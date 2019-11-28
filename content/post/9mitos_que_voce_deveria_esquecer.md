@@ -34,7 +34,7 @@ Permita que seu time sobreviva sem você, pois isso pode significar sua hora ext
 
 ## 3. DevOps está assumindo o controle
 
-Eu acho falsa a premissa que os desenvolvedores tinha o "controle" antes do microsserviço. Essa inclusive é uma das dores primordiais que estimulou a criação da cultura DevOps. "O controle" na maioria das empresas esteva na mão dos Sysadmin, que era o time responsável pelo que é colocado em produção.
+Eu acho falsa a premissa que os desenvolvedores tinha o "controle" antes do microsserviço. Essa inclusive é uma das dores primordiais que estimulou a criação da cultura DevOps. "O controle" na maioria das empresas esteve na mão dos Sysadmin, que era o time responsável pelo que é colocado em produção.
 
 A cultura DevOps não estimula que esse "controle" mude de lado e agora um outro time assuma essa responsabilidade. A premissa é **colaboração**, ou seja, o "controle" foi distribuído em partes menores e agora todos são corresponsáveis.
 
